@@ -299,7 +299,7 @@
     ],
     "maintainers": [
       {
-        "name": "Trevor Bedford",
+        "name": "USAFSAM",
         "url": "http://bedford.io/team/trevor-bedford/"
       }
     ],
@@ -307,8 +307,8 @@
       "tree",
       "map"
     ],
-    "title": "Tutorial Nextstrain build for Zika virus",
-    "updated": "2020-12-06"
+    "title": "My work through Zika",
+    "updated": "2020-12-05"
   },
   "tree": {
     "branch_attrs": {
